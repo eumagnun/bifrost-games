@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://games.bifrost-solutions.com/index.html</loc>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://games.bifrost-solutions.com/archive.html</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://games.bifrost-solutions.com/posts/tragedia-no-mundo-dos-rpgs-a-za-um-esta-em-chamas-e-o-futuro-de-disco-elysium-e-um-ponto-de-interrogacao-gigante.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+</urlset>
