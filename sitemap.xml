@@ -11,6 +11,11 @@
         <priority>0.8</priority>
     </url>
     <url>
+        <loc>https://games.bifrost-solutions.com/posts/fim-do-jogo-na-netflix-a-queda-da-night-school-vai-deixar-saudades.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
         <loc>https://games.bifrost-solutions.com/posts/alerta-vermelho-hackers-querem-roubar-seu-inventario-cuidado-com-golpes-na-steam.html</loc>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
