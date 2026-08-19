@@ -11,6 +11,11 @@
         <priority>0.8</priority>
     </url>
     <url>
+        <loc>https://games.bifrost-solutions.com/posts/isaac-vs-gta-vi-a-batalha-final-do-seculo-vai-comecar.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
         <loc>https://games.bifrost-solutions.com/posts/guerra-total-battlefield-6-entra-na-briga-com-teste-gratuito-enquanto-cod-prepara-o-ataque.html</loc>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
